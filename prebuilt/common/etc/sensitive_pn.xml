@@ -17,6 +17,14 @@
  */
 -->
 <sensitivePNS>
+    <!--Greece-->
+    <sensitivePN network="202">
+        <item>15900</item>
+        <item>11525</item>
+        <item>1056</item>
+        <item>1107</item>
+        <item>116111</item>
+    </sensitivePN>
     <!--Netherlands-->
     <sensitivePN network="204">
         <item>08002000</item>
@@ -55,6 +63,8 @@
     </sensitivePN>
     <!--GB-->
     <sensitivePN network="234">
+        <item>116123</item>
+        <item>08001111</item>
         <item>08082000247</item>
     </sensitivePN>
     <!--Norway-->
@@ -75,6 +85,7 @@
     <!--Portugal-->
     <sensitivePN network="268">
         <item>800202148</item>
+        <item>116006</item>
     </sensitivePN>
     <!--Turkey-->
     <sensitivePN network="286">
@@ -198,5 +209,6 @@
     <sensitivePN network="724">
         <item>100</item>
         <item>180</item>
+        <item>181</item>
     </sensitivePN>
 </sensitivePNS>
