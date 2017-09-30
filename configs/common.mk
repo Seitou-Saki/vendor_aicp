@@ -135,7 +135,6 @@ PRODUCT_COPY_FILES += \
 # -include vendor/cyngn/product.mk
 
 # AICP OTA
-ifneq ($(AICP_BUILDTYPE),UNOFFICIAL)
 PRODUCT_PACKAGES +=  \
    AICP_OTA
-endif
+
