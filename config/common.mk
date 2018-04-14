@@ -146,7 +146,8 @@ PRODUCT_PACKAGES += \
 
 # Custom AICP packages
 PRODUCT_PACKAGES += \
-    AicpExtras
+    AicpExtras \
+    AICP_OTA
 
 # Exchange support
 PRODUCT_PACKAGES += \
