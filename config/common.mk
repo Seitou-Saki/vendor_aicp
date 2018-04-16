@@ -158,6 +158,7 @@ PRODUCT_PACKAGES += \
     LineageAmberAccent \
     LineageBlackAccent \
     LineageBrownAccent \
+    LineageCyanAccent \
     LineageGreenAccent \
     LineageGreyAccent \
     LineageOrangeAccent \
@@ -299,7 +300,8 @@ endif
 # Omni Packages
 PRODUCT_PACKAGES += \
     OmniJaws \
-    OmniStyle
+    OmniStyle \
+    OmniSwitch
 
 # DU Utils Library
 PRODUCT_PACKAGES += \
