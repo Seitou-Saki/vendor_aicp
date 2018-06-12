@@ -159,13 +159,17 @@ PRODUCT_PACKAGES += \
     LineageBlackAccent \
     LineageBrownAccent \
     LineageCyanAccent \
+    LineageDenimAccent \
+    LineageGoldAccent \
     LineageGreenAccent \
     LineageGreyAccent \
+    LineageLavaAccent \
     LineageOrangeAccent \
     LineagePinkAccent \
     LineagePurpleAccent \
     LineageRedAccent \
     LineageTealAccent \
+    LineageTurquoiseAccent \
     LineageYellowAccent
 
 # Default dark theme
